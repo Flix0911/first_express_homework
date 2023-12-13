@@ -31,6 +31,7 @@ app.get("/magic/:eightballquestion", (req, res) => {
     // const length = eightBallResponse.length
     // res.send(console.log(length))
     //Used above 2 lines to figure out the length of my array. I typed magic/length in my browser, and it logged '20'. Now I know how long my array is
+    //I ultimately didn't need the above but I was glad I practiced it
 
 })
 
